@@ -1,0 +1,20 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+<<<<<<< HEAD
+.gitconfig
+=======
+>>>>>>> 3b0ec41acb5d0ae484e8a2c8bfe97e731c1e91b3
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+/leolopez
